@@ -2,7 +2,7 @@
 - 👀 I’m interested in **software development**, **data analysis**, and **technology innovations**.
 - 🌱 I’m currently learning  **advanced programming languages** and **machine learning**.
 - 💞️ I’m looking to collaborate on **open-source projects** related to **web development** and **data science**.
-- 📫 How to reach me [alyaap978@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/alya-putri)).
+- 📫 How to reach me [alyaap978@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/alyaa-putri-809614312)).
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact:  I’m actually better at writing novels, but being a programmer is pretty fun too!
 
